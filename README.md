@@ -1,6 +1,6 @@
 # Dactyl Sygnus
 
-This is a sub 40% Dactyl Manuform inspired ergonomic split keyboard.
+This is a fork of the v0.5 Cygnus Keyboard by [juhakaup](https://github.com/juhakaup), a sub 40% Dactyl Manuform inspired ergonomic split keyboard.
 
 ## Warning! Work in progress!
 
@@ -8,7 +8,7 @@ If you want to print a version for yourself, you may need to modify the prints t
 
 I consider this still to be a prototype. Although it is very usable at this stage.
 
-Here is some modifications I'm planning to make:
+Here is some modifications Jujakaup was/is planning to make:
   * Make the upper and lower halves fit better together.
   * Better placement for fasteners and feet.
   * Support for different sizes of micro-controllers.
@@ -23,7 +23,7 @@ To use the hot swap sockets, you need to print the separate left and right files
 For the version without the hot swap sockets, you can just mirror the noswap version of the top.
 The case bottom is the same for all versions and can be mirrored to print the left hand side.
 
-The controller holder bracker is designed to fit a 35mm x 17.7mm pro-micro clone. You need to print a mirrored version for the left side.
+The controller holder bracket is designed to fit a 35mm x 17.7mm pro-micro clone. You need to print a mirrored version for the left side.
 
 The trrs holder support thing does not need to be mirrored.
 
