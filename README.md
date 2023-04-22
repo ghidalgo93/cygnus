@@ -2,21 +2,23 @@
 
 This is a fork of the v0.5 Cygnus Keyboard by [juhakaup](https://github.com/juhakaup), a sub 40% Dactyl Manuform inspired ergonomic split keyboard.
 
-## Warning! Work in progress!
+## Warning! Work in progress
 
 If you want to print a version for yourself, you may need to modify the prints to get the parts to fit properly.
 
 I consider this still to be a prototype. Although it is very usable at this stage.
 
 Here is some modifications Jujakaup was/is planning to make:
-  * Make the upper and lower halves fit better together.
-  * Better placement for fasteners and feet.
-  * Support for different sizes of micro-controllers.
-  * Refine the shape a bit.
-  * Support a few more configurations.
-  * Rework the Fusion 360 file for the possible release.
+
+* Make the upper and  ower halves fit better together.
+* Better placement for fasteners and feet.
+* Support for different sizes of micro-controllers.
+* Refine the shape a bit.
+* Support a few more configurations.
+* Rework the Fusion 360 file for the possible release.
 
 ## 3D printed parts
+
 There are two versions of the case at the moment: with or without hot swap sockets.
 
 To use the hot swap sockets, you need to print the separate left and right files of the case top.
@@ -37,7 +39,7 @@ I used various lengths of countersunk M3 machine screws, and a couple of M3 nuts
 
 The part number for the jack is PJ-320A.
 
-## Some pictures of my build:
+## Some pictures of my build
 
 <img src="./images/top.JPG" alt="top view" width="1024"/>
 <img src="./images/profile.JPG" alt="profile" width="1024"/>
